@@ -19,6 +19,8 @@ A Brief History of the Hawaiian Islands:
 1820-1845:  Lāhainā was the capital of the Hawaiian Kingdom
 
 1835:  The first sugar plantation opens on Kauaʻi. The Hawaiian Islands garner recognition for their prime agricultural land. Agriculture becomes a dominant economic force.
+
 #
 #CONFLICT SIMULATION
 #
+#NEW ROW
